@@ -1,0 +1,8 @@
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\bin\Debug\Коллекции.exe.config
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\bin\Debug\Коллекции.exe
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\bin\Debug\Коллекции.pdb
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\obj\Debug\Коллекции.csproj.AssemblyReference.cache
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\obj\Debug\Коллекции.csproj.SuggestedBindingRedirects.cache
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\obj\Debug\Коллекции.csproj.CoreCompileInputs.cache
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\obj\Debug\Коллекции.exe
+C:\Users\БарашенковИТ\source\repos\Коллекции\Коллекции\obj\Debug\Коллекции.pdb
